@@ -3,9 +3,9 @@
 原文：[Welcome to Scapy's documentation!](http://www.secdev.org/projects/scapy/doc/)
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/scapy-docs/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/scapy-docs)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/scapy-docs)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/scapy-docs)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/scapy-docs)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/scapy-docs)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/scapy-docs)
 + [Github](https://github.com/wizardforcel/scapy-docs-zh)
 
 ## 译者
